@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:barter",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "enchantments": [
+                "minecraft:soul_speed"
+              ]
+            }
+          ],
+          "name": "minecraft:book"
+        },
+
+        {
+          "type": "minecraft:item",
+          "weight": 40,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 4.0,
+                "max": 8.0,
+                "type": "minecraft:uniform"
+              }
+            }
+          ],
+          "name": "minecraft:ender_pearl"
+        },        
+       
+        {
+          "type": "minecraft:item",
+          "weight": 5,
+          "functions": [
+          ],
+          "name": "minecraft:music_disc_pigstep"
+        }
+      ]   
+    }
+  ]
+} 
