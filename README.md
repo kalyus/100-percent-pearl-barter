@@ -2,7 +2,7 @@
 A Minecraft data pack that gives you one ender pearl 100% of the time when bartering. Get rid of RNG in your game. 
 
 # Purpose?
-Goal of this datapack is just to let people have fun speedrunning but skipping the spending tons of time on bartering aspect.
+Goal of this datapack is to let people always get a pearl when bartering. Why you use it is personal
 
 ## Contribute:
 
