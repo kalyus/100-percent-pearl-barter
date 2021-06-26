@@ -2,12 +2,7 @@
 A Minecraft data pack that gives you one ender pearls 100% of the time when bartering. Get rid of RNG in your game. 
 
 # Purpose?
-Personally its so I can combine with other datapacks and play with friends while simplifying the goal. Feel free to do the same or start a 23 Million subscriber youtube channel.
-
-## WIP TO DO:
-Make blaze's guarantee 1 rod drop.
-
-Adjust Pearl rate. (Maybe 1 per gold ingot?)
+Goal of this datapack is just to let people have fun speedrunning but skipping the spending tons of time on bartering aspect.
 
 ## Contribute:
 
