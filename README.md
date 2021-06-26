@@ -1,5 +1,5 @@
 # 100% Pearl barter rate!
-A Minecraft data pack that gives you one ender pearls 100% of the time when bartering. Get rid of RNG in your game. 
+A Minecraft data pack that gives you one ender pearl 100% of the time when bartering. Get rid of RNG in your game. 
 
 # Purpose?
 Goal of this datapack is just to let people have fun speedrunning but skipping the spending tons of time on bartering aspect.
